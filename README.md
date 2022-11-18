@@ -5,6 +5,8 @@
     <img align="right" alt="Aldrin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 
+<a href="https://github.com/aldrin112602?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aldrin112602?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a
 - 🔭 I’m currently working on a JavaScript library called J3.JS, library that can be an alternative to JQuery
 
 - 💬 I’m currently learning Web Development Technologies
