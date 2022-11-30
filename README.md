@@ -35,8 +35,9 @@
     <a href="#" target="_blank"> <img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" alt="express" width="40" height="40"/> </a>
   <a href="#" target="_blank"><img src="https://imgs.search.brave.com/dPvU85gATgtr4mMF2du--Rx3zwl8sze5U3TwQDAOpD8/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE4L0lT/T19DJTJCJTJCX0xv/Z28uc3ZnLzUxMnB4/LUlTT19DJTJCJTJC/X0xvZ28uc3ZnLnBu/Zw" alt="c++" width="40" height="40"/></a>
   <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/></a>
-  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"  alt="vscode" width="40" height="40" />
-  <a href="#" target="_blank"> <img src="https://www.php.net/images/logos/php-logo-white.svg"  alt="php" width="40" height="40" />
+  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"  alt="vscode" width="40" height="40" /></a>
+  <a href="#" target="_blank"> <img src="https://www.php.net/images/logos/php-logo-white.svg"  alt="php" width="40" height="40" /></a>
+    <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"  alt="scss" width="40" height="40" /></a>
 </p>
 
  ## 📊 Github Stats
