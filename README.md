@@ -19,7 +19,7 @@
 - 🏭 Full Stack Web developer
 - ⌨️ Fluent in JavaScript
 - 🌱 Constantly learning and growing
-
+ - How to reach me: <a href=”mailto:caballeroaldrin02@gmail.com”>caballeroaldrin02@gmail.com</a>
 ### 🚀 Languages and Tools:
 <p align="left">
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
