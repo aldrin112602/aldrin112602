@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you,+I'm+Aldrin...;A+Self+taught+Programmer...;I'm+a+JavaScript+Developer...;Cyber+Security+researcher...;I'm+Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <a href="https://github.com/namcodes/github-readme-streak-stats">
     <img align="right" alt="Aldrin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
