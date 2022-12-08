@@ -50,9 +50,3 @@
  ## 📊 Github Stats
  [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-<a href="[https://github.com/namcodes/github-readme-stats](https://github-readme-stats.vercel.app/api?username=aldrin112602&langs_count=15&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0)">
-<img align="left" alt="Aldrin Caballero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aldrin112602&langs_count=15&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0" />
-</a>
-
-<img align="right" alt="top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&langs_count=20&count_private=true&layout=compact&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
-
