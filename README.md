@@ -48,7 +48,5 @@
 </p>
 
  ## 📊 Github Stats
- [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Aldrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrin112602&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&layout=compact&langs_count=10&hide=html,css)](https://github.com/aldrin112602/github-readme-stats)
+ [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/aldrin112602/github-readme-activity-graph)
 
