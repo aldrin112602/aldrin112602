@@ -48,5 +48,6 @@
 </p>
 
  ## 📊 Github Stats
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/aldrin112602/github-readme-stats)
  [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/aldrin112602/github-readme-activity-graph)
 
