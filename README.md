@@ -42,8 +42,10 @@
     
   <a href="#"> <img src="https://www.php.net/images/logos/php-logo-white.svg"  alt="php" width="40" height="40" /></a>
     <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"  alt="scss" width="auto" height="40" /></a>
-    <a href="#"><img src="https://lesscss.org/public/img/less_logo.png"  alt="less" width="auto" height="40" /></a>
-    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png"  alt="bash" width="auto" height="40" /></a>
+    <a href="#"><img src="https://lesscss.org/public/img/less_logo.png"  alt="less" width="auto" height="30" /></a>
+    <a href="#"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"  alt="less" width="auto" height="40" /></a>
+    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png"  alt="less" width="auto" height="40" /></a>
+    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png"  alt="bash" width="auto" height="30" /></a>
     
 </p>
 
