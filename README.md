@@ -52,4 +52,15 @@
  ## 📊 Github Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/aldrin112602/github-readme-stats)
  [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/aldrin112602/github-readme-activity-graph)
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aldrin112602/count.svg" />
+</p>
 
