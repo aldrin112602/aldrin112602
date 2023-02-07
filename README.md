@@ -1,8 +1,24 @@
+--- 
+
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you,+I'm+Aldrin...;A+Self+taught+Programmer...;I'm+a+JavaScript+Developer...;Cyber+Security+researcher...;I'm+Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
+---
+
+<img width="100%" src="https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=gradient" style="max-width: 100%;">
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aldrin112602/count.svg" />
+</p>
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 <a href="https://github.com/namcodes/github-readme-streak-stats">
     <img align="right" alt="Aldrin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -20,6 +36,9 @@
 - ⌨️ Fluent in JavaScript
 - 🌱 Constantly learning and growing
  - How to reach me: <a href=”mailto:caballeroaldrin02@gmail.com”>caballeroaldrin02@gmail.com</a>
+ 
+ ---
+ 
 ### 🚀 Languages and Tools:
 <p align="left">
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -49,18 +68,31 @@
     
 </p>
 
+---
+
  ## 📊 Github Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/aldrin112602/github-readme-stats)
+ 
+ ---
+ 
+ 
+ 
  [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/aldrin112602/github-readme-activity-graph)
  
+ ---
+
+### :writing_hand: Codewars:
+[![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/112602)
+
+---
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aldrin112602/count.svg" />
-</p>
+--- 
 
+<img width="100%" src="https://camo.githubusercontent.com/3c3769a2ae8612480297625e275cb03951c12f3ae00e00491b45c267afea4b4d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;section=footer" style="max-width: 100%;">
+
+---
