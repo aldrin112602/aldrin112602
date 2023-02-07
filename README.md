@@ -16,6 +16,12 @@
 
 ---
 
+### :writing_hand: Codewars:
+[![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/112602)
+
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -79,11 +85,7 @@
  
  [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/aldrin112602/github-readme-activity-graph)
  
- ---
-
-### :writing_hand: Codewars:
-[![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/112602)
-
+ 
 ---
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake-dark.svg">
