@@ -16,7 +16,7 @@
 ---
 
 ### :writing_hand: Codewars:
-[![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/112602)
+[![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/aldrin112602)
 
 
 ---
