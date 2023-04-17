@@ -76,7 +76,7 @@
 ---
 
  ## 📊 Github Stats
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/aldrin112602/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&layout=compact&hide=css,html&langs_count=7&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/aldrin112602/github-readme-stats)
  
  ---
  
