@@ -80,12 +80,6 @@
  
  ---
  
- 
- 
- [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aldrin112602&theme=high-contrast)](https://github.com/aldrin112602/github-readme-activity-graph)
- 
- 
----
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake.svg">
