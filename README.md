@@ -77,14 +77,7 @@
 
  ## 📊 Github Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/aldrin112602/github-readme-stats)
- 
- ---
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aldrin112602/aldrin112602/output/github-contribution-grid-snake.svg">
-</picture>
 
 --- 
 
