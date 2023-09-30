@@ -15,6 +15,8 @@
 
 <div align='center'>
  <br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+ <br>
 <h3>Languages and tools</h3> 
  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,ts,react,svelte,express,nodejs,next,solidjs,astro,java,mongo,firebase,mysql,python,git,c,cpp,cs,golang,kotlin,sass,bash,vscode&theme=dark&perline=6" />
  <br> 
@@ -27,7 +29,7 @@
  <br/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=monokai" />
  <br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+ 
 </p>
 
 
