@@ -1,5 +1,15 @@
 <img width="100%" src="https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=gradient" style="max-width: 100%;">
 
+
+<div align='center'>
+ <br/>
+<h3>Languages and tools</h3> 
+ <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,ts,react,svelte,express,nodejs,next,solidjs,astro,java,mongo,firebase,mysql,python,git,c,cpp,cs,golang,kotlin,sass,bash,vscode&theme=dark&perline=6" />
+ <br>
+ 
+</div>
+
+
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Aldrin+Caballero...;I'm+a+Versatile+Developer...;I'm+Full+Stack+Web+Developer...;I+love+Programming...)](https://git.io/typing-svg)
 
@@ -36,43 +46,6 @@
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-### Languages and Technologies:
-<p align="left">
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/python.png" alt="Python"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/> </a>
-</p>
-
-<p align="left">
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> </a>
-  <a href="#" target="_blank"> <img width="50" src="https://th.bing.com/th/id/R.450f2b96f7e9a4dd6bd4203e9ae7d6d1?rik=ee9MFIc%2b5y5kAg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjquery-logo-png--512.png&ehk=0sJi1yTrN7399ERPql%2bPhOYr60Sjbx4adZRmCdmExIM%3d&risl=&pid=ImgRaw&r=0" alt="jQuery"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/> </a>
-  <a href="#" target="_blank"> <img width="60" src="https://lesscss.org/public/img/less_logo.png" alt="Less"/> </a>
-  <a href="#" target="_blank"> <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind CSS"/> </a>
-  <a href="#" target="_blank"> <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" alt="Svelte"/> </a>
-</p>
-
-<p align="left">
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> </a>
-  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> </a>
-  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" width="48" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="Bash" width="80" height="40"/> </a>
-</p>
 
 ---
 
