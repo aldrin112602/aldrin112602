@@ -18,7 +18,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
  <br>
 <h3>Languages and tools</h3> 
- <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,git,sass,vscode&theme=dark&perline=6" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,git,gitlab,github,react,sass,vscode&theme=dark&perline=5" />
  <br> 
 </div>
 
