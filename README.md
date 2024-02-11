@@ -13,7 +13,12 @@
 </div>
 
 <p align="center">
-<br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+</p>
+<p align="center">
+<br/>
+  Connect with me
+  <br/><br/>
 <a href="https://www.linkedin.com/in/aldrin-caballero-aa6b25257" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a>
  <a href="https://www.instagram.com/aldrin3334/" target="_blank">
@@ -23,7 +28,7 @@
 
 <div align='center'>
  <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+ 
  <br>
 <h3>Languages and tools</h3> 
  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,git,gitlab,github,react,sass,vscode&theme=dark&perline=5" />
