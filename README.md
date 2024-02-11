@@ -31,38 +31,9 @@
 </div>
 
 
-
-
-<p align="center" style="display:flex;align-items:center;justify-content:center;gap:20px !important;flex-wrap:wrap;margin-bottom:20px !important;"> 
- <br/>
-<!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=monokai" /> -->
- <br>
- 
-</p>
-
-
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrin112602&hide=html,css,scss&langs_count=15&layout=compact&theme=midnight-purple" width="400px" />
- </div>
-
 <a href="https://github.com/aldrin112602?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aldrin112602?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
-
-
-
-
-
-- 💬 I'm passionate about Web Development and constantly expanding my knowledge in the field.
-- 👯 I'm actively seeking part-time opportunities as a skilled Web Developer.
-- 🎓 Currently pursuing a Bachelor of Science in Information Technology at East System Colleges of Rizal with a specialization in Web Development.
-- ⚙️ Proficient in Full Stack Web Development, with expertise in JavaScript.
-- 🏭 Actively contributing to the world of web development.
-- ⌨️ Fluent in JavaScript and always exploring new technologies to enhance my skills.
-- 🌱 Committed to continuous learning and personal growth in the ever-evolving tech industry.
-- ✉️ Feel free to reach out to me at <a href="mailto:caballeroaldrin02@gmail.com">caballeroaldrin02@gmail.com</a> to discuss collaborations or opportunities.
- ---
 
 <p align="center"> 
   Visitor count<br>
