@@ -1,7 +1,16 @@
 
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Aldrin+Caballero...;I'm+a+Versatile+Developer...;I'm+Full+Stack+Web+Developer...;I+love+Programming...)](https://git.io/typing-svg)
-
+### GitHub Stats 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=prussian" width="100%" height="auto" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x3ef8&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x3ef8&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
 
 <p align="center">
 <br/><br/>
@@ -26,7 +35,7 @@
 
 <p align="center" style="display:flex;align-items:center;justify-content:center;gap:20px !important;flex-wrap:wrap;margin-bottom:20px !important;"> 
  <br/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=monokai" />
+<!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=monokai" /> -->
  <br>
  
 </p>
@@ -38,7 +47,12 @@
  </div>
 
 <a href="https://github.com/aldrin112602?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aldrin112602?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aldrin112602?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+
+
+
+
 
 - 💬 I'm passionate about Web Development and constantly expanding my knowledge in the field.
 - 👯 I'm actively seeking part-time opportunities as a skilled Web Developer.
