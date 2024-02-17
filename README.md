@@ -23,6 +23,10 @@
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a>
  <a href="https://www.instagram.com/aldrin3334/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram&theme=dark" ></a>
+  <a href="https://stackoverflow.com/users/20559372/aldrin-caballero?tab=profile" target="_blank">
+<img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" ></a>
+  <a href="" target="_blank">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width="50px"></a>
  </p>
 
 
