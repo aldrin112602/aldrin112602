@@ -27,6 +27,8 @@
 <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" ></a>
   <a href="https://leetcode.com/aldrin112602/" target="_blank">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width="50px"></a>
+  <a href="https://www.codewars.com/users/aldrin112602" target="_blank">
+<img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="45px"></a>
  </p>
 
 
