@@ -1,5 +1,6 @@
 
-### GitHub Stats .
+### GitHub Stats
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=prussian" width="100%" height="auto" />
 </div>
