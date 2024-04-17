@@ -38,7 +38,7 @@
  
  <br>
 <h3>Languages and tools</h3> 
- <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,git,gitlab,github,react,sass,vscode&theme=dark&perline=5" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,git,nodejs,express,react,typescript,github,vscode&theme=dark&perline=4" />
  <br> 
 </div>
 
