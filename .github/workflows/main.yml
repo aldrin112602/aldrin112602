@@ -1,0 +1,20 @@
+name: Test github workflow
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Git
+        uses: actions/checkout@v2
+
+      - name: Create or update file
+        run: |
+          echo "$(date)" > commit.txt
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add commit.txt
+          git commit -m "Auto-commit: Update commit.txt"
+          git push https://github.com/$GITHUB_REPOSITORY.git HEAD:main
