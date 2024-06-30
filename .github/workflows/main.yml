@@ -1,7 +1,7 @@
 name: Test github workflow
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/60 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
