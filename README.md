@@ -20,7 +20,7 @@
 <br/>
   Connect with me
   <br/><br/>
-<a href="https://www.linkedin.com/in/aldrin-caballero-aa6b25257" target="_blank">
+<a href="https://www.linkedin.com/in/aldrin02" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a>
  <a href="https://www.instagram.com/aldrin3334/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram&theme=dark" ></a>
