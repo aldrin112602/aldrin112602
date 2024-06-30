@@ -16,5 +16,5 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add commit.txt
-          git commit -m "Auto-commit: Update commit.txt"
+          git commit -m "GitHub workflow: Update commit.txt"
           git push https://github.com/$GITHUB_REPOSITORY.git HEAD:main
