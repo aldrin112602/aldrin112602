@@ -1,4 +1,3 @@
-
 ### GitHub Stats
 
 <div align="center">
@@ -32,8 +31,6 @@
 <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="45px"></a>
  </p>
 
-
-
  <br/>
  
  <br>
@@ -44,7 +41,6 @@
   </a>
 </p>
 
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/aldrin112602/count.svg" />
@@ -53,10 +49,11 @@
 ---
 
 ### :writing_hand: Codewars:
+
 [![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/aldrin112602)
 
-
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
