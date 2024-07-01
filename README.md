@@ -33,14 +33,16 @@
  </p>
 
 
-<div align='center'>
+
  <br/>
  
  <br>
 <h3>Languages and tools</h3> 
- <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,firebase,mongodb,git,nodejs,express,react,typescript,github,vscode&theme=dark&perline=9" />
- <br> 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,firebase,mongodb,git,nodejs,prisma,express,react,typescript,htmx,github,githubactions,vscode,vite,windows,npm,netlify,vercel,powershell,heroku&theme=light&perline=4" />
+  </a>
+</p>
 
 
 <p align="center"> 
