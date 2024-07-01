@@ -1,7 +1,8 @@
 ### About me:
 <p>
-  &nbsp;&nbsp;&nbsp; I'm Aldrin Caballero, a 21-year-old from Tanay, Rizal. Currently, I'm in my fourth year of college pursuing a degree in Bachelor of Science in Information Technology. My passion for web development drives me to explore and master technologies like HTML, CSS, JavaScript, PHP, and frameworks such as Laravel and React, etc. I'm enthusiastic about creating dynamic and responsive web applications that deliver great user experiences. I am currently seeking internship opportunities to contribute and gain valuable experience.
+  &nbsp;&nbsp;&nbsp; I'm Aldrin Caballero, a 21-year-old from Tanay, Rizal, currently pursuing a Bachelor of Science in Information Technology. I'm passionate about web development, specializing in HTML, CSS, JavaScript, PHP, Laravel, React, and more. I'm eager to create dynamic web applications and currently seeking internship opportunities to gain valuable experience and contribute.
 </p>
+
 
 ### Connect with me:
 <a href="mailto:caballeroaldrin02@gmail.com">
