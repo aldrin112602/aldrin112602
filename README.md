@@ -1,59 +1,78 @@
-### GitHub Stats
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=prussian" width="100%" height="auto" />
-</div>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
-</div>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+### About me:
+<p>
+  &nbsp;&nbsp;&nbsp; I'm Aldrin Caballero, a 21-year-old from Tanay, Rizal. Currently, I'm in my fourth year of college pursuing a degree in Bachelor of Science in Information Technology. My passion for web development drives me to explore and master technologies like HTML, CSS, JavaScript, PHP, and frameworks such as Laravel and React, etc. I'm enthusiastic about creating dynamic and responsive web applications that deliver great user experiences. I am currently seeking internship opportunities to contribute and gain valuable experience.
 </p>
-<p align="center">
-<br/>
-  Connect with me
-  <br/><br/>
+
+### Connect with me:
+<a href="mailto:caballeroaldrin02@gmail.com">
+<img src="https://img.shields.io/badge/email-%23333.svg?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/aldrin02" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a>
- <a href="https://www.instagram.com/aldrin3334/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram&theme=dark" ></a>
-  <a href="https://stackoverflow.com/users/20559372/aldrin-caballero?tab=profile" target="_blank">
-<img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" ></a>
-  <a href="https://leetcode.com/aldrin112602/" target="_blank">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width="50px"></a>
-  <a href="https://www.codewars.com/users/aldrin112602" target="_blank">
-<img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="45px"></a>
- </p>
+<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/aldrin3334/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/20559372/aldrin-caballero?tab=profile" target="_blank">
+<img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+<a href="https://leetcode.com/aldrin112602/" target="_blank">
+<img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.codewars.com/users/aldrin112602" target="_blank">
+<img src="https://img.shields.io/badge/codewars-%230A0A0A.svg?style=for-the-badge&logo=codewars&logoColor=white"></a>
 
- <br/>
- 
- <br>
-<h3>Languages and tools</h3> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,laravel,mysql,firebase,mongodb,git,nodejs,prisma,express,react,typescript,htmx,github,githubactions,vscode,vite,windows,npm,netlify,vercel,powershell,heroku&theme=light&perline=4" />
-  </a>
-</p>
+---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aldrin112602/count.svg" />
-</p>
+ ### Tech stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-FF6347?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+
 
 ---
 
 ### :writing_hand: Codewars:
-
-[![codewars](https://www.codewars.com/users/aldrin112602/badges/large)](https://www.codewars.com/users/aldrin112602)
+[![codewars](https://www.codewars.com/users/aldrin112602/badges/small)](https://www.codewars.com/users/aldrin112602)
 
 ---
-
+### Github trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+### GitHub Stats:
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="97%"/>
+</div>
+
+
+
