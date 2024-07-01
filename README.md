@@ -50,17 +50,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-
-
----
-
-### :writing_hand: Codewars:
-[![codewars](https://www.codewars.com/users/aldrin112602/badges/small)](https://www.codewars.com/users/aldrin112602)
-
----
-### Github trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=aldrin112602&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### GitHub Stats:
@@ -75,5 +64,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="97%"/>
 </div>
 
-
+---
 
