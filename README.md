@@ -1,6 +1,8 @@
+<div align="center">
+  
 ### About me:
 <p>
-  &nbsp;&nbsp;&nbsp; I'm Aldrin Caballero, 21 of age from Tanay, Rizal, currently pursuing BSIT specializing in fullstack web development. I'm eager to create dynamic web applications and currently seeking internship opportunities to gain valuable experience and make significant contributions to the company.
+  I'm Aldrin Caballero, 21 of age from Tanay, Rizal, currently pursuing BSIT specializing in fullstack web development. I'm eager to create dynamic web applications and currently seeking internship opportunities to gain valuable experience and make significant contributions to the company.
 </p>
 
 
@@ -19,8 +21,8 @@
 <img src="https://img.shields.io/badge/codewars-%230A0A0A.svg?style=for-the-badge&logo=codewars&logoColor=white"></a>
 
 ---
-
  ### Tech stack:
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -53,18 +55,17 @@
 ---
 
 ### GitHub Stats:
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="24%" height="auto" style="display: inline;" />
-</div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
 
 ---
 
-<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
+
+---
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="97%"/>
-</div>
 
 ---
 
@@ -74,4 +75,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-
+</div>
