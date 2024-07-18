@@ -55,6 +55,12 @@
 ---
 
 ### GitHub Stats:
+---
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=transparent&hide_border=true" />
+
+---
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
 
