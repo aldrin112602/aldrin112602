@@ -66,7 +66,7 @@
 
 ---
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=transparent" width="44%" height="auto" style="display: inline;" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=transparent&utcOffset=+6.5" width="44%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrin112602&theme=transparent" width="44%" height="auto" style="display: inline;" />
 
 ---
