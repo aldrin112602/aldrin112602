@@ -76,6 +76,14 @@
 
 ---
 
+### WakaTime Stats
+  <img src="https://wakatime.com/share/@aldrin02/9f6c34a4-d37c-4012-bfc7-814268b8aea7.svg" alt="WakaTime Stats" width="44%" height="auto" style="display: inline;">
+  <img src="https://wakatime.com/share/@aldrin02/bb2995c0-e514-49f5-bea8-73400e3ac372.svg" alt="WakaTime Stats" width="44%" height="auto" style="display: inline;">
+
+
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
