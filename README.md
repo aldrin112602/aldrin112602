@@ -2,7 +2,7 @@
   
 ### About me:
 <p>
-  I'm Aldrin Caballero, 22 of age from Tanay, Rizal, currently pursuing BSIT specializing in fullstack web development. I'm eager to create dynamic web applications and currently seeking opportunities to gain valuable experience and make significant contributions to the company.
+  I'm Aldrin Caballero, <!-- AGE --> years old of age from Tanay, Rizal, currently pursuing BSIT specializing in fullstack web development. I'm eager to create dynamic web applications and currently seeking opportunities to gain valuable experience and make significant contributions to the company.
 </p>
 
 
