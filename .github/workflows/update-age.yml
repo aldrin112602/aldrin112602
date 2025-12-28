@@ -2,8 +2,8 @@ name: Update Age in README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # runs daily at 00:00 UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *' # daily at 00:00 UTC
+  workflow_dispatch: # allows manual run
 
 jobs:
   update-readme:
@@ -16,12 +16,10 @@ jobs:
           BIRTH_YEAR=2002
           BIRTH_MONTH=11
           BIRTH_DAY=26
-          
-          TODAY=$(date +%Y-%m-%d)
+
           AGE=$(( $(date +%Y) - BIRTH_YEAR ))
-          
+
           # Adjust if birthday hasn't happened yet this year
-          BIRTHDATE_THIS_YEAR=$(date -d "$BIRTH_YEAR-$BIRTH_MONTH-$BIRTH_DAY" +%m-%d)
           TODAY_MMDD=$(date +%m-%d)
           if [[ "$TODAY_MMDD" < "$BIRTH_MONTH-$BIRTH_DAY" ]]; then
             AGE=$((AGE - 1))
